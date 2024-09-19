@@ -12,4 +12,6 @@
 
 [University of California, Berkeley](https://www.berkeley.edu/)
 
+#Research Interests
+I am interested in paleoclimate and hydroclimate. I want to investigate our climate's past and use it to inform our decisions for the future.
 
